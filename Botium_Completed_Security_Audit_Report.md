@@ -41,7 +41,7 @@ The audit looked at three key types of security controls—Administrative, Techn
 | Customer data privacy | No | PII/SPII stored in plaintext. |
 | 72-hour breach notification | Yes | Policy and process confirmed. |
 | Data classification and inventory | No | Not yet conducted. |
-| Enforcement of privacy policies | Yes | Implemented by IT staff. |
+| Enforcement of privacy policies | Yes | Implemented by security team. |
 
 ### SOC Type 1 / 2
 
