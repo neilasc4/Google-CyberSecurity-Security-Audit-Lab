@@ -1,4 +1,4 @@
-# Botium Toys Internal Security Audit
+# Botium Toys Internal IT Audit
 
 This repository contains the completed internal security audit for Botium Toys, a fictional small business specializing in toy development and retail. This project was completed as part of a cybersecurity compliance and auditing assignment.
 
