@@ -1,6 +1,6 @@
-# Botium Toys – Completed Security Audit Report
+# Botium Toys – Completed IT Audit Report
 
-This report outlines the findings from Botium Toys’ internal Security audit. It highlights where the company currently stands with its security controls and compliance practices and identifies areas that need improvement.
+This report outlines the findings from Botium Toys’ internal security audit. It highlights where the company currently stands with its security controls and compliance practices and identifies areas that need improvement.
 
 The audit looked at three key types of security controls—Administrative, Technical, and Physical—and checked how well Botium Toys is using each. It also reviews how the company is doing in meeting industry compliance standards like PCI DSS, GDPR, and SOC.
 
@@ -41,7 +41,7 @@ The audit looked at three key types of security controls—Administrative, Techn
 | Customer data privacy | No | PII/SPII stored in plaintext. |
 | 72-hour breach notification | Yes | Policy and process confirmed. |
 | Data classification and inventory | No | Not yet conducted. |
-| Enforcement of privacy policies | Yes | Implemented by security team. |
+| Enforcement of privacy policies | Yes | Implemented by IT Department. |
 
 ### SOC Type 1 / 2
 
@@ -54,7 +54,7 @@ The audit looked at three key types of security controls—Administrative, Techn
 
 ## Recommendations
 
-Here are a few practical steps the Security team should consider:
+Here are a few practical steps the IT department should consider:
 - Limit access to sensitive data by setting up least privilege and separating duties between roles.
 - Encrypt customer and payment information so it’s protected, both when stored and sent.
 - Install an intrusion detection system (IDS) to spot suspicious activity early.
