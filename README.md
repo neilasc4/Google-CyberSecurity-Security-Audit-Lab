@@ -6,7 +6,7 @@ This repository contains the completed internal security audit for Botium Toys, 
 The following criteria were used to complete the project:
 
 - Review the Scope, Goals, and Risk Assessment report for Botium Toys, with attention to:
-  - The assets currently managed by the IT department
+  - The assets currently managed by the IT staff
   - The bullet points listed under 'Additional comments' in the Risk Assessment section
 
 - Review the provided Control Categories document to understand:
