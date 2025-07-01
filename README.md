@@ -24,3 +24,16 @@ The following criteria were used to complete the project:
 
 ---
 This project was completed as part of a cybersecurity compliance exercise. Botium Toys is a fictional company used for educational purposes.
+
+## References
+
+The following documents were used to complete this audit:
+
+- [Botium-Toys-Scope-Goals-and-Risk-Assessment.pdf](./references/Botium-Toys-Scope-Goals-and-Risk-Assessment.pdf)  
+  Describes the assets, audit scope, risk score, and control gaps for Botium Toys.
+
+- [Control-Categories.pdf](./references/Control-Categories.pdf)  
+  Outlines control types (administrative, technical, physical) and their purposes.
+
+- [Controls-and-Compliance-Checklist-Template.pdf](./references/Controls-and-Compliance-Checklist-Template.pdf)  
+  Provided the checklist used to evaluate control presence and compliance readiness.
