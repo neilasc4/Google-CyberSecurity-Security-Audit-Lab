@@ -41,7 +41,7 @@ The audit looked at three key types of security controls—Administrative, Techn
 | Customer data privacy | No | PII/SPII stored in plaintext. |
 | 72-hour breach notification | Yes | Policy and process confirmed. |
 | Data classification and inventory | No | Not yet conducted. |
-| Enforcement of privacy policies | Yes | Implemented by IT Department. |
+| Enforcement of privacy policies | Yes | Implemented by IT staff. |
 
 ### SOC Type 1 / 2
 
@@ -54,7 +54,7 @@ The audit looked at three key types of security controls—Administrative, Techn
 
 ## Recommendations
 
-Here are a few practical steps the IT department should consider:
+Here are a few practical steps the IT staff should consider:
 - Limit access to sensitive data by setting up least privilege and separating duties between roles.
 - Encrypt customer and payment information so it’s protected, both when stored and sent.
 - Install an intrusion detection system (IDS) to spot suspicious activity early.
