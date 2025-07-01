@@ -20,7 +20,7 @@ The following criteria were used to complete the project:
 - Provide a set of recommendations based on observed risks and missing controls
 
 ## Files
-- [Botium_Completed_Security_Audit_Report.md](./Botium_Completed_Security_Audit_Report.md): A markdown version of the completed audit report.
+- [Botium_Completed_Security_Audit_Report.md](./Botium_Completed_Security_Audit_Report.md): The completed audit report.
 
 ---
 This project was completed as part of a cybersecurity compliance exercise. Botium Toys is a fictional company used for educational purposes.
